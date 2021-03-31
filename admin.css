@@ -137,7 +137,7 @@
   input[type="datetime-local"],
   input[type="month"] {
     line-height: 34px;
-    line-height: 1.42857143 \0;
+    line-height: 1.4;
   }
   input[type="date"].input-sm,
   input[type="time"].input-sm,
